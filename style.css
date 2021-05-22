@@ -35,3 +35,7 @@ body{
     color: #999;
     text-align: center;
 }
+.error{
+    text-align: center;
+    color: rgb(153, 8, 8);
+}
